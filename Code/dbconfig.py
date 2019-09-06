@@ -1,2 +1,2 @@
-user_id = "insert id"
-user_pwd = "insert password"
+user_id = "postgres"
+user_pwd = "Gibson1paul"
